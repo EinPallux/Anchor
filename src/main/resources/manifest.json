@@ -1,0 +1,19 @@
+{
+  "Group": "com.pallux",
+  "Name": "Anchor",
+  "Version": "1.0.0",
+  "Description": "Anchor is a Hytale Essentials Core - Bringing all the Essential Features",
+  "Authors": [
+    {
+      "Name": "Pallux",
+      "Email": "support@pallux.co",
+      "Url": "https://builtbybit.com/members/pallux.34066/"
+    }
+  ],
+  "Website": "https://builtbybit.com/members/pallux.34066/",
+  "Main": "com.pallux.anchor.Anchor",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false
+}
